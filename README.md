@@ -1,5 +1,5 @@
 # ED_Lista05.05
-## Aplicando o algortimoa QuickSort
+## Aplicando o algortimo QuickSort
 
 Este desafio consiste em criar uma aplicação, em Java, que utilize uma biblioteca de QuickSort para ordenar os seguintes vetores:
 
